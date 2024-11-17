@@ -2,7 +2,6 @@ import numpy as np
 import random
 from time import sleep
 
-
 def main_board():
     boards = np.array([
         [0,0,0],
